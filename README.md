@@ -9,29 +9,5 @@ Last updated history:
 
 
 
-January 17, 2023
-
-
-
-February 28, 2023
-
-The calculation tool and the set of attached files have been updated to the new version.
-The old version files has been deleted.
-
-
-
-March 01, 2023
-
-The calculation tool and the set of attached files have been updated to the new version.
-The old version files has been deleted.
-
-
-
-July 20, 2023
-
-The calculation tool and the set of attached files have been updated to the new version.
-
-The related files are zipped and divided into 5 parts.
-
-The old version files has been deleted.
-
+November 9, 2023
+The calculation tool files have been uploaded.
