@@ -7,7 +7,7 @@ How to use the program:
 1. Unzip all five separate zip files at once. "Exposure assessment tool v8.zip.001-005"
 2. Open reconstructed EXCEL file by double-clicking.
 3. Insert desired data (Processing factor, selecting Food item no. in STFCJ, selecting National food intake survey used for calculation, Pesticide name, Concentration of pesticide residue detected in crop [ppm]) for calculation. Start calculate by clicking "Start calculation" button.
-5. Results obtained from the calculation is automatically transfer to the folder "Results".
+5. A summary of the calculated results in EXCEL file is automatically transfer to the folder "Results".
 
 Last updated history:
 July 8, 2025
