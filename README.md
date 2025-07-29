@@ -6,9 +6,9 @@ A calculation tool program for estimating residual pesticide exposure level in f
 How to use the program:
 1. Unzip all five separate zip files ("Exposure assessment tool v10.zip.001-005") at once. 
 2. Open reconstructed EXCEL file by double-clicking.
-3. Insert desired data (Processing factor, selecting Food item no. in STFCJ, selecting National food intake survey used for calculation, Pesticide name, Concentration of pesticide residue detected in crop [ppm]) for calculation. Start calculate by clicking "Start calculation" button.
-5. A summary of the calculated results in EXCEL file is automatically transfer to the "Results" in the same folder.
+3. Insert desired data (Processing factor, selecting Food item no. in STFCJ, selecting National food intake survey used for calculation, Residual pesticides name, Concentration of residual pesticides detected in food item [in ppm]) for calculation. Start calculate by clicking "Start calculation" button.
+5. A summary of the calculated results in EXCEL file is automatically transfer to the "Results" folder in the same directly.
 
 Last updated history:
-July 29 2025
-The calculation tool files were uploaded.
+July 29, 2025
+The calculation tool files (version 10) were uploaded.
