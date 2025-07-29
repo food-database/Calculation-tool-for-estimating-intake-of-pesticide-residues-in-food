@@ -10,7 +10,7 @@ How to use the program:
 5. A summary of the calculated results in EXCEL file is automatically transfer to the "Results" folder in the same directly.
 
 Last updated history:
-2023
+Year 2023
 The calculation tool prototype (version 8) were uploaded.
 
 July 29, 2025
