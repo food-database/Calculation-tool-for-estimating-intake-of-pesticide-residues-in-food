@@ -1,7 +1,7 @@
 A calculation tool program for estimating residual pesticide exposure level in foods and a set of files required for the calculation are here.
 ・This program and the set of files were developed for research purpose only.
 ・Developer does not have any responsibilities caused by the program.
-・Any modifications to the program, transfer or copy of the program from the original web-site are not allowed and copy-righted to the owner of the program.
+・All copy-righted to the owner of the program. Any modifications to the program, transfering or copying of the program from this original web-site are not allowed.
 
 How to use the program:
 1. Unzip all ten separate zip files ("Exposure assessment tool v10.zip.001-010") at once. 
